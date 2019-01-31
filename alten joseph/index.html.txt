@@ -1,0 +1,11 @@
+<html>
+<head><title>auto biography</title></head>
+<body background=bg.jpg>
+<hr/>
+<p> <i><b>I am Alten joseph.</i></b><br/> Studying in <i><b>KGiSL Institute of technology</b></i><br/>
+I have completed my schooling in <i><b>AVB.</b></i><br/>
+I am intrested in playing video games. I have played so many pc games like <i><b>pubg</i></b><br/>
+Also i did pygame in my college<br/>
+</p>
+</body>
+</html>
